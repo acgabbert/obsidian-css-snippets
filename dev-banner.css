@@ -1,0 +1,8 @@
+.app-container::before {
+  background-color: orange;
+  content: "*** DEV ***";
+  width: 100%;
+  text-align: center;
+  position: relative;
+  font-weight: bold;
+}
