@@ -1,0 +1,5 @@
+/* reading mode */
+.markdown-rendered pre {
+  max-height: 400px;
+  overflow: auto;
+}
