@@ -1,0 +1,12 @@
+.callout[data-callout="bird-note"] {
+    --callout-color: 200, 200, 200;
+    --callout-icon: bird;
+}
+.callout[data-callout="redbird-note"] {
+    --callout-color: 222, 93, 93;
+    --callout-icon: search-code;
+}
+.callout[data-callout="fingerprint-note"] {
+    --callout-color: 200, 200, 200;
+    --callout-icon: fingerprint;
+}
